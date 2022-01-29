@@ -55,20 +55,20 @@
 ---
 #### <무료 에셋 및 리소스 출처>
 * BGM
- * https://youtu.be/bdM7e_CRNvE
- * https://www.mewpot.com/search/sound-effects?tags%5B%5D=%EC%A2%80%EB%B9%84&is_free=true
+  * https://youtu.be/bdM7e_CRNvE
+  * https://www.mewpot.com/search/sound-effects?tags%5B%5D=%EC%A2%80%EB%B9%84&is_free=true
 * ASSET
- * Easy FPS 
- * https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/easy-fps-73776
- * Toony Tiny People Demo
- * https://assetstore.unity.com/packages/3d/characters/toony-tiny-people-demo-113188
- * CITY package
- * https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224
+  * Easy FPS 
+  * https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/easy-fps-73776
+  * Toony Tiny People Demo
+  * https://assetstore.unity.com/packages/3d/characters/toony-tiny-people-demo-113188
+  * CITY package
+  * https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224
 * IMAGE
- * https://www.pngkey.com/detail/u2e6y3q8y3q8y3a9_blood-on-screen-png-blood-frame-png/
- * https://www.klipartz.com/ko/sticker-png-qccvj/download
- * https://www.pngegg.com/ko/png-wzqvu
- * https://www.pngegg.com/ko/png-njwsw/download
- * https://www.pngegg.com/ko/png-npbnn/download
- * https://www.klipartz.com/ko/sticker-png-qccva/download
- * https://www.klipartz.com/ko/sticker-png-qccvs/download
+  * https://www.pngkey.com/detail/u2e6y3q8y3q8y3a9_blood-on-screen-png-blood-frame-png/
+  * https://www.klipartz.com/ko/sticker-png-qccvj/download
+  * https://www.pngegg.com/ko/png-wzqvu
+  * https://www.pngegg.com/ko/png-njwsw/download
+  * https://www.pngegg.com/ko/png-npbnn/download
+  * https://www.klipartz.com/ko/sticker-png-qccva/download
+  * https://www.klipartz.com/ko/sticker-png-qccvs/download
