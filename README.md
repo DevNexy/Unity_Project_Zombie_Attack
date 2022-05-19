@@ -1,8 +1,13 @@
 ### Unity_Project_Zombie_Attack (유니티 프로젝트_좀비때찌)
 ### 2020-2 VR/AR term-project (2020년도 2학기 vr/ar 수업 텀프로젝트)
+![image](https://user-images.githubusercontent.com/92451281/169241686-1c5984f8-c588-42bc-a7c0-bcd471721193.png)
+
 -------------------------------------------------------------------
 ### 좀비때찌 게임은?
 #### 도시에 찾아든 좀비를 소탕하며 랜덤 퀘스트를 수행하는 FPS 게임
+<img src="https://user-images.githubusercontent.com/92451281/169242216-ac911745-7dca-4e00-a2b0-7a679e3eafba.png" width="500" height ="300"/>
+<img src="https://user-images.githubusercontent.com/92451281/169242386-e643fb8b-0433-46de-8a7f-1f43783f74ae.png" width="500" height ="300"/>
+
 #### [플레이 영상 소개](https://youtu.be/z3xuYJGu6AA)
 -------------------------------------------------------------------
 #### <팀원>
