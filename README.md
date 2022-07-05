@@ -1,5 +1,5 @@
-### Unity_Project_Zombie_Attack (유니티 프로젝트_좀비때찌)
-### 2020-2 VR/AR term-project (2020년도 2학기 vr/ar 수업 텀프로젝트)
+## Unity_Project_Zombie_Attack (유니티 프로젝트_좀비때찌) - :trophy:우수상 수상:trophy:
+## 2020-2 VR/AR term-project (2020년도 2학기 vr/ar 수업 텀프로젝트)
 ![image](https://user-images.githubusercontent.com/92451281/169241686-1c5984f8-c588-42bc-a7c0-bcd471721193.png)
 
 -------------------------------------------------------------------
